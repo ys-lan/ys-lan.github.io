@@ -18,28 +18,11 @@
       </categories>
       
       
-    </entry>
-    
-    
-    
-    <entry>
-      <title>hello world</title>
-      <link href="/2022/03/05/hello-world/"/>
-      <url>/2022/03/05/hello-world/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 教程 </category>
-          
-          <category> 搭着玩 </category>
-          
-          <category> 肿么回事 </category>
-          
-      </categories>
-      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
       
     </entry>
     

@@ -62,15 +62,13 @@ body {
   }
 
 @font-face{
-  font-family:'title-font' ;  /* 字体名自定义即可 */
-  src: url('/fonts/title-font.ttf'); /* 字体文件路径 */
+  font-family:'title-font';
+  src: url('https://cdn.jsdelivr.net/gh/kirvac/picgo_demo/title-font.ttf');
   font-display : swap;
 }
 
 @font-face {
   font-family: 'global-font';
-  /* 字体名自定义即可 */
   src: url('https://cdn.jsdelivr.net/gh/tzy13755126023/BLOG_SOURCE/font/ZhuZiAWan.woff2');
-  /* 字体文件路径 */
   font-display: swap;
 }

@@ -67,8 +67,10 @@ body {
   font-display : swap;
 }
 
-@font-face{
-  font-family:'global-font' ;  /* 字体名自定义即可 */
-  src: url('/fonts/global-font.woff2'); /* 字体文件路径 */
-  font-display : swap;
+@font-face {
+  font-family: 'global-font';
+  /* 字体名自定义即可 */
+  src: url('https://cdn.jsdelivr.net/gh/tzy13755126023/BLOG_SOURCE/font/ZhuZiAWan.woff2');
+  /* 字体文件路径 */
+  font-display: swap;
 }
